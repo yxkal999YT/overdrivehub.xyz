@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://pastefy-x-zenith-new.vercel.app/api/p/1UT9P483'))()
+loadstring(game:HttpGet('https://cdn.pastebdn.workers.dev/raw/7eb12fd0'))()
